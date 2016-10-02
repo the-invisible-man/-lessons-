@@ -6,6 +6,6 @@
 int main()
 {
     speak("hello world");
-
+    cout << endl;
     return 0;
 }
